@@ -13,5 +13,5 @@
 Set-ExecutionPolicy Unrestricted -Force
 
 #Enable Windows Feature and Reboot
-Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux -Restart
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
